@@ -1,4 +1,4 @@
-# My Awesome Skills by Anton Weiss
+# My Awesome Skills by Anton Vice
 
 My collection of practical skills for AI coding agents. Each skill packages a workflow that I have used, the details that made it work, and the checks needed to tell whether it actually worked.
 
