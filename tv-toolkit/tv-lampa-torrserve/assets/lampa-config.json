@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "url": "https://yumata.github.io/lampa/",
+    "player": "com.brouken.player",
+    "lang": "ru",
+    "sync_account": false,
+    "player_keep_connection": false,
+    "kodi_playlist_enabled": false
+  },
+  "storage": {
+    "language": "ru",
+    "tmdb_lang": "ru",
+    "parser_use": "true",
+    "parser_torrent_type": "jackett",
+    "parser_use_link": "one",
+    "jackett_url": "https://jr.maxvol.pro",
+    "internal_torrclient": "false",
+    "torrserver_url": "http://127.0.0.1:8090",
+    "torrserver_use_link": "one",
+    "torrserver_auth": "false",
+    "torrserver_savedb": "false",
+    "player": "android",
+    "player_torrent": "android",
+    "parse_lang": "lg_df_year",
+    "animation": "false",
+    "advanced_animation": "false",
+    "background": "false",
+    "poster_size": "w200",
+    "account_use": "false",
+    "cloud_use": "false",
+    "navigation_type": "controll",
+    "torrserver_preload": "false"
+  }
+}

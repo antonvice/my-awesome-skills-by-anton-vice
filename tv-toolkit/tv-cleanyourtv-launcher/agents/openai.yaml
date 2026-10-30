@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cyberpunk TV Launcher"
+  short_description: "CleanYourTV Home styling and working remote buttons"
+  default_prompt: "Use $tv-cleanyourtv-launcher to install and style my TV Home with the cyberpunk theme."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TV Privacy and Optimization"
+  short_description: "Reversible TV cleanup with verified privacy changes"
+  default_prompt: "Use $tv-privacy-optimize to audit and optimize my Android TV while preserving my apps and remote buttons."

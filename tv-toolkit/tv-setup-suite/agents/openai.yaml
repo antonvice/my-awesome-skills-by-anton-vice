@@ -1,0 +1,4 @@
+interface:
+  display_name: "Complete TV Setup"
+  short_description: "Discover, clean, style and set up TV-local movies"
+  default_prompt: "Use $tv-setup-suite to discover my Android TV and run the complete TV toolkit."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TV Lampa and TorrServe"
+  short_description: "TV-local movies with on-demand torrent streaming"
+  default_prompt: "Use $tv-lampa-torrserve to install Lampa, TorrServe and Just Player on my Android TV."

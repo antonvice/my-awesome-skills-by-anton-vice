@@ -1,0 +1,32 @@
+[
+  {
+    "file": "lampa-v1.13.5.apk",
+    "source": "https://github.com/lampa-app/LAMPA/releases/tag/v1.13.5",
+    "size": 11741704,
+    "sha256": "4d53f2038cb99dc7a05f346e943dd6ec7cedd25e42b878ce383cb4e31d6c24c8",
+    "download_url": "https://github.com/lampa-app/LAMPA/releases/download/v1.13.5/app-lite-release.apk"
+  },
+  {
+    "file": "torrserve-foss-143.apk",
+    "source": "https://f-droid.org/en/packages/ru.yourok.torrserve/",
+    "size": 11250770,
+    "sha256": "c1021faf83e99bd9cdb7359581ec9c7dabf306ca37edaf286685b30d73e772a6",
+    "download_url": "https://f-droid.org/repo/ru.yourok.torrserve_177.apk",
+    "version_name": "MatriX.143.FOSS",
+    "version_code": 177
+  },
+  {
+    "file": "TorrServer-android-arm7",
+    "source": "https://github.com/YouROK/TorrServer/releases/tag/MatriX.147.1",
+    "size": 63929548,
+    "sha256": "e775001edf7bfb2adebfde0ba36780357c0951f12203adb367bd69b2b45522b6",
+    "download_url": "https://github.com/YouROK/TorrServer/releases/download/MatriX.147.1/TorrServer-android-arm7"
+  },
+  {
+    "file": "just-player-0.217.apk",
+    "source": "https://github.com/moneytoo/Player/releases/tag/v0.217",
+    "size": 51778873,
+    "sha256": "f85156d4748c6263a6af0b13682fb54fbe1dd12a1ed1e8fa3710def548259b74",
+    "download_url": "https://github.com/moneytoo/Player/releases/download/v0.217/Just.Player.v0.217.apk"
+  }
+]
